@@ -1,0 +1,25 @@
+{
+  "name": "imprezowe-mazury",
+  "version": "1.0.0",
+  "description": "serwis imprezowe mazury",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass style.scss style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buhtig007/imprez.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buhtig007/imprez/issues"
+  },
+  "homepage": "https://github.com/buhtig007/imprez#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
